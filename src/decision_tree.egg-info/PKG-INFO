@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: decision-tree
+Version: 1.0.0
+Summary: Exercises for the hands-on part of the training.
+Author-email: Matthijs Wesseling <matthijs.wesseling@bigdatarepublic.nl>
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy>=1.25.1
+Requires-Dist: scipy>=1.11.1
+Requires-Dist: scikit-learn>=1.3.0
+
 # cpp-decision-tree
 Basic decision tree implementation in C++ wrapped with python, that I wrote for a training I organized.
 

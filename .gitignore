@@ -1,0 +1,14 @@
+__pycache__/
+
+# Distribution / packaging
+build/
+obj/
+
+# Environments
+.env
+.venv
+
+# Executables
+*.out
+*.d
+*.o
